@@ -14,4 +14,5 @@ Add the following line to crontab:
 ```
 
 ## Client Setup
-Copy the root CA certificate, by default in `~/.ssl/crt/root-selfsigned.crt`.
+Download the root CA certificate, by default in `~/.ssl/crt/root-selfsigned.crt`.
+Follow instructions for your Operating System to install the certificate.
